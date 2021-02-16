@@ -1,7 +1,9 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: quiz no 4b
+widget_id: quiz no 4b
 headless: true
+weight: 0
+title: alasan kuliah di bidang komputer
 ---
+alasan saya kuliah di bidang komputer adalah karena tertarik dengan kamajuan teknologi yang ada
